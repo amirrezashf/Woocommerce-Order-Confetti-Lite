@@ -5,7 +5,7 @@
  * Description: Lightweight confetti animation displayed on WooCommerce order success pages.
  * Version: 1.0.0
  * Author: Amirreza Shayesteh Far
- * Author URI: https://github.com/yourusername
+ * Author URI: https://github.com/amirrezashf
  * License: GPL v2 or later
  * Text Domain: woocommerce-order-confetti-lite
  * Requires Plugins: woocommerce
